@@ -19,6 +19,8 @@ import java.util.Random;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+
+
 public class SimulatedDeviceMQTT {
     // The device connection string to authenticate the device with your IoT hub.
     // Using the Azure CLI:
